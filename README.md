@@ -1,5 +1,5 @@
 # This is Js-Calc
-###### A simple calculator made in JavaScript
+###### A simple calculator made in JavaScript and html
 
 ## Demo:
 
