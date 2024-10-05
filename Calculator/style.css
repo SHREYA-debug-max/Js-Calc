@@ -12,12 +12,12 @@ body{
     /*background: linear-gradient(to bottom, #660033 0%, #0033cc 100%);*/
     background: linear-gradient(to top, #0a0a0a, #3a4452);
 }
-.calculator{
+#calculator{
     border: 1px solid #717377;
     padding: 20px;
     border-radius: 16px;
     background: transparent;
-    box-shadow: 0px 3px 15px rgb(113,115,119,0.5);
+    box-shadow: 0px 3px 15px rgba(113,115,119,0.5);
 
 }
 input{
